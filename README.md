@@ -5,7 +5,7 @@ Pseudo 3D game using raycast
 
 ## Use
 
-To run game you nedd to install pygame with pip module:
+To run game you need to install pygame with pip module:
 ```
 pip install pygame
 ```
